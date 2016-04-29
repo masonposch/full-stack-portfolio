@@ -64,11 +64,6 @@ h1 {
   font-size: 2em;
 }
 
-h1 a {
-  display: none;
-  style: none;
-}
-
 mark {
   color: #000;
   background: #ff0;
